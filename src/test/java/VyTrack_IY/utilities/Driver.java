@@ -1,4 +1,4 @@
-package Example.utilities;
+package VyTrack_IY.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Platform;

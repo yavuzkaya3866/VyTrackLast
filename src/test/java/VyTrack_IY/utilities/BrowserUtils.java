@@ -1,4 +1,4 @@
-package Example.utilities;
+package VyTrack_IY.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;
