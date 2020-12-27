@@ -1,3 +1,4 @@
+@regression
 Feature: user should be able to login
 
 

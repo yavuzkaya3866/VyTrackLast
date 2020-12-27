@@ -8,7 +8,7 @@ import org.junit.Assert;
 
 import java.util.concurrent.TimeUnit;
 
-public class logoutStepDefs {
+public class LogoutStepDefs {
 
     @When("user logged out")
     public void user_logged_out() {

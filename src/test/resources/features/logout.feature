@@ -1,4 +1,4 @@
-@logout
+@logout @regression
 Feature: logout
   Scenario: user able to logout
     When the user is on the login page
