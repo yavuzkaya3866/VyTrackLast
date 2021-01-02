@@ -3,14 +3,14 @@ Feature: Sales Manager Page
 
 
   Background:
-  Given user is on the login page
+  Given the user is on the login page
   Then verify that title is "Login"
-  And the "sales manager" enters info
+  And the user logged in as "sales manager"
   Then verify that title is "Dashboard"
 
   Scenario: Sales Manager login
 
-    And verify that subtitle is "Dashboard"
+    And  verify that title is "Dashboard"
     Then the user should see following options
       | Dashboard          |
       | Fleet              |
